@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        ".devcontainer/conditional",
+        ".devcontainer/String",
+        ".devcontainer/number_system"
+    ]
+}
